@@ -1,1 +1,7 @@
-.vscode
+/bin/
+/test/tests.*
+/test/coverage.*
+coverage.txt
+/go.sum
+/.idea/
+/.vscode/
